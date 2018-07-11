@@ -3,7 +3,7 @@
 GenUtils.py:
 The file defines a bunch of functions that can be used on the command line.
 In later version of python these may already be a part of python package as other named function.
-I will continue to add functions that I find useful during python development work
+I will continue to add functions that I find useful during python development work.
 
 #Usage  
 python ./GenUtils.py version  
