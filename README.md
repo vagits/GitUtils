@@ -6,7 +6,7 @@ In later version of python these may already be a part of python package in some
 I will continue to add functions that I find useful during python development work
 
 #Usage
-python ./GenUtils.py version
+python ./GenUtils.py version  
 python ./GenUtils.py dirCount ./
 python ./GenUtils.py saveToFile ./testfile.txt dataToSave
 python ./GenUtils.py readFile ./testfile.txt
